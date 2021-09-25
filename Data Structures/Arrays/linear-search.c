@@ -4,10 +4,8 @@
 // Practice on Arrays 
 
 int main()
-{
+{   
 
-    
-  
 return 0;
 
 }
